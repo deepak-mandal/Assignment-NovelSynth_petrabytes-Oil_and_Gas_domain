@@ -1,2 +1,2 @@
 # petrabytes
-![user_view](/pdf/dkm.pdf)
+![user_view](/pdf/dkm.png)
